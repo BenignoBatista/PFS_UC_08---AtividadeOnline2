@@ -1,5 +1,5 @@
-let dataAtual = 01/01/2022
-let dataEvento = 02/01/2022
+let dataAtual = "01/01/2022"
+let dataEvento = "02/01/2022"
 idadeDoParticipante = 18;
 capacidadeDoEvento = 100;
 listaDeParticipantes = ["João", "Maria", "José", "Pedro", "Joaquim" ];
